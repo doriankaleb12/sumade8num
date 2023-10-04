@@ -1,0 +1,14 @@
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.AssemblyInfoInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.AssemblyInfo.cs
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.csproj.CoreCompileInputs.cache
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\bin\Debug\net7.0\SUMA DE 8 EN C#.exe
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\bin\Debug\net7.0\SUMA DE 8 EN C#.deps.json
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\bin\Debug\net7.0\SUMA DE 8 EN C#.runtimeconfig.json
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\bin\Debug\net7.0\SUMA DE 8 EN C#.dll
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\bin\Debug\net7.0\SUMA DE 8 EN C#.pdb
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.dll
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\refint\SUMA DE 8 EN C#.dll
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.pdb
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\SUMA DE 8 EN C#.genruntimeconfig.cache
+C:\Users\BAN\OneDrive\Escritorio\SUMATORIA\SUMA DE 8 EN C#\obj\Debug\net7.0\ref\SUMA DE 8 EN C#.dll
